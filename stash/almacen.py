@@ -1,1 +1,0 @@
-Empezando almacen.py
